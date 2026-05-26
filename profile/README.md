@@ -1,6 +1,6 @@
 # Tillerstead
 
-Built with precision. Managed with discipline.
+**Built with precision. Managed with discipline.**
 
 Tillerstead is a construction and remodeling company focused on durable residential work, operational clarity, and long-term stewardship.
 
@@ -17,7 +17,7 @@ We believe construction should feel:
 * organized
 * transparent
 * well-sequenced
-* and built to last.
+* and built to last
 
 ---
 
@@ -29,26 +29,26 @@ We believe construction should feel:
 * Interior finish work
 * Property improvements
 * Estimating systems
-* Operational tooling for contractors
+* Contractor operational tooling
 
 ---
 
 ## Operational Philosophy
 
-Tillerstead approaches construction the same way institutional systems are built:
+Tillerstead approaches construction the same way durable institutional systems are built:
 
 * measure carefully
 * document clearly
 * sequence deliberately
-* and avoid shortcuts that create hidden failures later.
+* and avoid shortcuts that create hidden failures later
 
 The objective is not speed at any cost.
 
-The objective is durable, accountable work that remains reliable over time.
+The objective is accountable work that remains reliable over time.
 
 ---
 
-## Infrastructure
+## Infrastructure & Tooling
 
 This organization contains:
 
@@ -56,13 +56,37 @@ This organization contains:
 * operational tooling
 * estimating systems
 * customer-facing web properties
-* and internal construction operations workflows.
+* internal construction workflows
+* and contractor-support utilities
 
-Production infrastructure is governed through controlled deployment and review workflows.
+Some repositories are production systems.
+Others are staging, experimental, or operational support surfaces.
+
+Managed web infrastructure and deployment systems are supported through @Evident-Technologies while remaining operationally distinct from Evident ICU and related legal-tech systems.
+
+---
+
+## Development Principles
+
+Tillerstead systems prioritize:
+
+* operational clarity
+* deterministic behavior
+* maintainability
+* traceability
+* and long-term survivability
+
+We favor practical systems that continue working under real-world operational pressure.
 
 ---
 
 ## Website
 
-🌐 https://tillerstead.com
+🌐 [tillerstead.com](https://tillerstead.com)
 
+---
+
+## Ownership
+
+Tillerstead LLC
+Founded and operated by Devon Tyler Barber.
