@@ -21,50 +21,6 @@ We believe construction should feel:
 
 ---
 
-## Areas of Focus
-
-* Residential remodeling
-* Tile and surface systems
-* Kitchen and bath renovation
-* Interior finish work
-* Property improvements
-* Estimating systems
-* Contractor operational tooling
-
----
-
-## Operational Philosophy
-
-Tillerstead approaches construction the same way durable institutional systems are built:
-
-* measure carefully
-* document clearly
-* sequence deliberately
-* and avoid shortcuts that create hidden failures later
-
-The objective is not speed at any cost.
-
-The objective is accountable work that remains reliable over time.
-
----
-
-## Infrastructure & Tooling
-
-This organization contains:
-
-* deployment infrastructure
-* operational tooling
-* estimating systems
-* customer-facing web properties
-* internal construction workflows
-* and contractor-support utilities
-
-Some repositories are production systems. Others are staging, experimental, or operational support surfaces.
-
-Managed web infrastructure and deployment systems are supported through [Evident-Technologies](https://github.com/Evident-Technologies) while remaining operationally distinct from Evident ICU and related legal-tech systems.
-
----
-
 ## Development Principles
 
 Tillerstead systems prioritize:
