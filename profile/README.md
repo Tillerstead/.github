@@ -59,10 +59,9 @@ This organization contains:
 * internal construction workflows
 * and contractor-support utilities
 
-Some repositories are production systems.
-Others are staging, experimental, or operational support surfaces.
+Some repositories are production systems. Others are staging, experimental, or operational support surfaces.
 
-Managed web infrastructure and deployment systems are supported through @Evident-Technologies while remaining operationally distinct from Evident ICU and related legal-tech systems.
+Managed web infrastructure and deployment systems are supported through [Evident-Technologies](https://github.com/Evident-Technologies) while remaining operationally distinct from Evident ICU and related legal-tech systems.
 
 ---
 
@@ -88,5 +87,5 @@ We favor practical systems that continue working under real-world operational pr
 
 ## Ownership
 
-Tillerstead LLC
+**Tillerstead LLC**
 Founded and operated by Devon Tyler Barber.
